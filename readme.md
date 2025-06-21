@@ -4,8 +4,6 @@
 ![image](https://user-images.githubusercontent.com/15149508/160743188-5b39aebc-3968-468a-bb90-c8fd2e4265b8.png)
 ![image](https://user-images.githubusercontent.com/15149508/160743520-829cbdc8-f78b-4372-8997-1c101a7fb788.png)
 
-Criei esse projeto inicial no docker em outro repositório, caso queira acompanhar, clique [aqui](https://github.com/danielaugustospo/docker_criaatva)
-
 ## Tutorial de configuração
 ----------------------------------------------------------------------------------------------------------------------------
 Comandos:
