@@ -1,8 +1,8 @@
 ## SISTEMA DE GERENCIAMENTO FINANCEIRO COM LARAVEL 5.8 - Sistema atualmente com php 7.4
 
-![image](https://user-images.githubusercontent.com/15149508/160742903-459d2041-d061-4933-8e6d-d995de00ca1d.png)
-![image](https://user-images.githubusercontent.com/15149508/160743188-5b39aebc-3968-468a-bb90-c8fd2e4265b8.png)
-![image](https://user-images.githubusercontent.com/15149508/160743520-829cbdc8-f78b-4372-8997-1c101a7fb788.png)
+![image](https://infoedesigner.com.br/1.png)
+![image](https://infoedesigner.com.br/2.png)
+![image](https://infoedesigner.com.br/3.png)
 
 ## Tutorial de configuração
 ----------------------------------------------------------------------------------------------------------------------------
